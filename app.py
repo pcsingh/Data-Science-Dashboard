@@ -10,8 +10,8 @@ st.title("Sentiment Analysis of Tweets about US Airines")
 # Sidebar in website using `sidebar` method
 st.sidebar.title("Sentiment Analysis of Tweets about US Airlines")
 # writing markdown
-st.markdown("This application is a Streamlit dashboard to analyze the sentiment of tweets `for emoji`")
-st.sidebar.markdown("This application is a Streamlit dashboard to analyze the sentiment of tweets `for emoji`")
+st.markdown("This application is a Streamlit dashboard to analyze the sentiment of tweets 🐦")
+st.sidebar.markdown("This application is a Streamlit dashboard to analyze the sentiment of tweets 🐦")
 
 DATA_URL = ("./Tweets.csv")
 
